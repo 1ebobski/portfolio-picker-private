@@ -1,0 +1,10 @@
+@media screen {
+  .form__print-button {
+    color: #000;
+    background-color: #f8f8f8;
+  }
+
+  .form__print-button:hover {
+    background-color: #e8e8e8;
+  }
+}
