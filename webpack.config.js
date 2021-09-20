@@ -43,10 +43,6 @@ module.exports = {
             options: { esModule: false },
           },
         ],
-
-        
-        
-
       },
       {
         test: /\.(eot|ttf|woff|woff2|otf)$/,
